@@ -1,6 +1,6 @@
 #include <bits/stdc++.h>
 using namespace std;
-
+//return fibonacci number sum till n.(a.j)
 int fibonacci (int n)
 {
     if(n<=1)
